@@ -90,7 +90,7 @@ sdkAutoInstall {
 // Build Variables
 // --------------------------------------------
 
-version= '1.0.1-SNAPSHOT'
+version= '2.0.1-SNAPSHOT'
 group = 'com.crazyroosters'
 type = 'swc'
 
